@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main()
+{
+	int a=0;
+	int b=0;
+	scanf("%d",&b);
+	a=b;
+	if(a==1)
+	{
+		printf("%d",a);
+		printf("∫√≥…º®");
+		
+	}
+	else
+	{
+		printf(" ‰»Î¥ÌŒÛ");
+	}
+	return 0;
+}
